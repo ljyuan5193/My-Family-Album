@@ -10,23 +10,23 @@ development:
   database: ccc
   host: localhost
   username: root
-  password: 1111
+  password: b0953733650
   timeout: 50000
 
 test:
   adapter: mysql2
   encoding: utf8
-  database: dingtest
+  database: ccc
   host: localhost
-  username: ccc
-  password: 1111
+  username: root
+  password: b0953733650
   timeout: 50000
 
 production:
   adapter: mysql2
   encoding: utf8
-  database: ding
-  host: localhost
-  username: ccc
+  database: ccc
+  username: root
+  password: b0953733650
   password: 1111
   timeout: 50000
