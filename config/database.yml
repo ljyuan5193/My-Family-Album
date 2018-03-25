@@ -7,10 +7,10 @@
 development:
   adapter: mysql2
   encoding: utf8
-  database: ding
+  database: ccc
   host: localhost
   username: root
-  password: b0953733650
+  password: 1111
   timeout: 50000
 
 test:
@@ -18,8 +18,8 @@ test:
   encoding: utf8
   database: dingtest
   host: localhost
-  username: root
-  password: b0953733650
+  username: ccc
+  password: 1111
   timeout: 50000
 
 production:
@@ -27,6 +27,6 @@ production:
   encoding: utf8
   database: ding
   host: localhost
-  username: root
-  password: b0953733650
+  username: ccc
+  password: 1111
   timeout: 50000
